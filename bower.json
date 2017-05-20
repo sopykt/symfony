@@ -1,0 +1,21 @@
+{
+  "name": "test.formyanmar.tk",
+  "homepage": "https://github.com/sopykt/symfony",
+  "authors": [
+    "soe paing <sopykt09@gmail.com>"
+  ],
+  "description": "a symfony project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
