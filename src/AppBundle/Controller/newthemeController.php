@@ -9,7 +9,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 class newthemeController extends Controller
 {
     /**
-    * @Route("newtheme")
+    * @Route("/newtheme")
     */
     public function newthemeAction()
     {
